@@ -3,7 +3,7 @@
 Thoughts on logic of various kinds.
 
 See also, toward a logical imperative for
-* World peace [GH](https://github.com/YorkEarwaker/World-Peace), conceiving civilization
+* World peace [GH](https://github.com/YorkEarwaker/World-Peace), conserving civilization
 * Climate model [GH](https://github.com/YorkEarwaker/Climate-Model), gate-keeping material reality
 * Genealogy, [GH](https://github.com/YorkEarwaker/Genealogy), safeguarding humanity
 

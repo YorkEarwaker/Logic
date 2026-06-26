@@ -11,6 +11,7 @@ A tool of science and philosophy.
 * A reasoning tool.
 * A proof tool.
 * A mathematical tool.
+* A set theory tool.
 * An information systems tool.
 * An epistemological tool.
 

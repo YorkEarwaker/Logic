@@ -26,7 +26,9 @@ Objectives secondary
 
 ##  Status
 TODO
-* <todo: consider, first project; material reality? epistemology? fol? >
+* <todo: consider, first project; material reality? epistemology? fol? perhaps logical statement to code?, model genetic boolean network?, >
+* <todo: consider, relation to rules based decision making, W3C linked data, OMG standards, others, >
+* <todo: consider, relation to language and linguistics, >
 
 DONE
 * <done: consider, intent to commit>

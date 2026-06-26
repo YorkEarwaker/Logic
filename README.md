@@ -2,6 +2,10 @@
 
 Thoughts on logic of various kinds.
 
+See also, toward a logical imperative for
+* World peace [GH](https://github.com/YorkEarwaker/World-Peace), 
+* Climate model [GH](https://github.com/YorkEarwaker/Climate-Model), 
+
 ## Notes
 
 A tool of science and philosophy.
@@ -14,6 +18,7 @@ A tool of science and philosophy.
 * A set theory tool.
 * An information systems tool.
 * An epistemological tool.
+* ...
 
 Objectives primary
 * Definition of the facts of material reality
@@ -30,13 +35,19 @@ TODO
 * <todo: consider, first project; material reality? epistemology? fol? perhaps logical statement to code?, model genetic boolean network?, >
 * <todo: consider, relation to rules based decision making, W3C linked data, OMG standards, others, >
 * <todo: consider, relation to language and linguistics, >
-* <todo: consider, stateing climate change global warming/heating facts, refuting with facts global warming/heating denial, how to use in a numerical prediction model use case,S >
+* <todo: consider, logical imperative of tackeling global warming/heating, stateing climate change global warming/heating facts, refuting with facts global warming/heating denial, how to use in a numerical prediction model use case, >
+* <todo: consider, logical imperative of world peace, resources freed to tackle global heating and global humger and global energy and global health and so on and so forth, >
 
 DONE
 * <done: consider, intent to commit>
 
 ## References
 
+Terms
+* Logic
+* Logical imperative
+
+Books
 * Beginning Logic, 1978, Edward John Lemon 
 * Tractatus Logica-Philosophicus, 1921, Ludwig Wittgenstein
 * Toward a Theory of Medical Fallibility, 1975, 1976, Samuel Gorovitz, Alasdair MacIntyre

@@ -61,4 +61,4 @@ Global warming/heating
 * Fossil fuel emissions have rapidly worsened European heatwaves in just a few decades, [WS](https://www.worldweatherattribution.org/fossil-fuel-emissions-have-rapidly-worsened-european-heatwaves-in-just-a-few-decades/), 26 June 2026, World Weather Attribution, extreme weather attribution, 
 
 Biology
-* A Boolean network model of human gonadal sex determination. [WS](https://link.springer.com/article/10.1186/s12976-015-0023-0), 26 12 2015, Ríos, O., Frias, S., Rodríguez, A. et al. , Theor Biol Med Model. https://doi.org/10.1186/s12976-015-0023-0
+* A Boolean network model of human gonadal sex determination. [WS](https://link.springer.com/article/10.1186/s12976-015-0023-0), 26 12 2015, Ríos, O., Frias, S., Rodríguez, A. et al. , Theor Biol Med Model. [doi](https://doi.org/10.1186/s12976-015-0023-0)

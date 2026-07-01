@@ -42,6 +42,56 @@ TODO
 DONE
 * <done: consider, intent to commit>
 
+## Output
+
+### Natural language to first order logic to code
+* Status, tbd
+* <todo; consider, python example in first instance, traditional 'hello world' natural language claim; All humans are mortal, Socraties is human, $\therefore$ Socraties is mortal .>
+* <todo; consider, python subproject fist, >
+* <todo: consider, move the following steps below to subproject >
+
+#### Natural language
+
+```
+If it is true that; all humans are mortal
+and it is true that; Socraties is human
+therefore it is true that; Socraties is mortal
+```
+
+```
+All humans are mortal
+& Socraties is human
+∴ Scoraties is mortal
+```
+
+#### First order logic
+
+```
+forall x if (P(x) then Q(x))
+```
+
+```
+
+```
+
+#### code
+* <todo: consider, Python in first instance, followed by C++, Java, excuse for a first Rust example? >
+
+Python
+```
+
+```
+
+C++
+```
+
+```
+
+Java
+```
+
+```
+
 ## References
 
 Terms

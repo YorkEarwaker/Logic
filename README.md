@@ -53,6 +53,12 @@ DONE
 #### Natural language
 
 ```
+all people die (at some point)
+and (the philosopher) Socraties was a person
+so Socraties would die (at some point)
+```
+
+```
 If it is true that; all humans are mortal
 and it is true that; Socraties is human
 therefore it is true that; Socraties is mortal
@@ -61,13 +67,14 @@ therefore it is true that; Socraties is mortal
 ```
 All humans are mortal
 & Socraties is human
-∴ Scoraties is mortal
+∴ Socraties is mortal
 ```
 
 #### First order logic
 
 ```
 forall x if (P(x) then Q(x))
+forall x if (Human(x) -> Mortal(x))
 ```
 
 ```

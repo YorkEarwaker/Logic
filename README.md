@@ -12,6 +12,7 @@ See also, toward a logical imperative for
 A tool of science and philosophy.
 
 * What is true.
+* A critical thinking tool.
 * A modeling tool.
 * A reasoning tool.
 * A proof tool.

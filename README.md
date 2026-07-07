@@ -25,6 +25,8 @@ A tool of science and philosophy.
 Objectives primary
 * Definition of the facts of material reality
 * Foundation for policy based on true statements of fact
+* Material reality debt reduction. 
+* Material reality debt management. 
 * How to best use for AGW project? 
 
 Objectives secondary

@@ -88,17 +88,17 @@ forall x if (Human(x) -> Mortal(x))
 
 Python
 ```
-
+TBD
 ```
 
 C++
 ```
-
+TBD
 ```
 
 Java
 ```
-
+TBD
 ```
 
 ## References

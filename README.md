@@ -39,6 +39,7 @@ TODO
 * <todo: consider, relation to language and linguistics, >
 * <todo: consider, logical imperative of tackeling global warming/heating, stateing climate change global warming/heating facts, refuting with facts global warming/heating denial, how to use in a numerical prediction model use case, >
 * <todo: consider, logical imperative of world peace, resources freed to tackle global heating and global humger and global energy and global health and so on and so forth, >
+<todo: consider, ethics, impiricism, dictated by the logical imperative, reason based on objective evidence, enlightenment principles, >
 
 DONE
 * <done: consider, intent to commit>
@@ -104,9 +105,9 @@ Java
 
 Terms
 * Logic
-* Logical imperative
+* Logical imperative, reason based on objective evidence, as opposed to moral imperative metaphysical self justification and individual or in group echo chamber confirmation bias feedback loops as action drivers 
 
-Books
+Primary sources
 * Beginning Logic, 1978, Edward John Lemon 
 * Tractatus Logica-Philosophicus, 1921, Ludwig Wittgenstein
 * Toward a Theory of Medical Fallibility, 1975, 1976, Samuel Gorovitz, Alasdair MacIntyre
@@ -117,6 +118,12 @@ Books
 
 Global warming/heating
 * Fossil fuel emissions have rapidly worsened European heatwaves in just a few decades, [WS](https://www.worldweatherattribution.org/fossil-fuel-emissions-have-rapidly-worsened-european-heatwaves-in-just-a-few-decades/), 26 June 2026, World Weather Attribution, extreme weather attribution, 
+* Long-lasting UK marine heatwave likely to reach extreme levels next week, [WS](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/long-lasting-uk-marine-heatwave-likely-to-reach-extreme-levels-next-week), 3 July 2026, Met Office
 
 Biology
 * A Boolean network model of human gonadal sex determination. [WS](https://link.springer.com/article/10.1186/s12976-015-0023-0), 26 12 2015, Ríos, O., Frias, S., Rodríguez, A. et al. , Theor Biol Med Model. [doi](https://doi.org/10.1186/s12976-015-0023-0)
+
+Public Health
+* The New Medical-Industrial Complex, [WS](https://www.nejm.org/doi/full/10.1056/NEJM198010233031703), 23 October 1980, Arnold S. Relman, M.D., N Engl J Med 1980;303:963-970, VOL. 303 NO. 17, [doi](https://doi.org/10.1056/NEJM198010233031703)
+* Medical Industrial Complex, [WS](https://www.ebsco.com/research-starters/consumer-health/medical-industrial-complex), 2019, , EBSCO
+* Medical-Industrial Complex, [WS](https://lifestyle.sustainability-directory.com/term/medical-industrial-complex/), 21 August 2025, Sustainability Directory, 

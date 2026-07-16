@@ -41,7 +41,7 @@ TODO
 * <todo: consider, relation to language and linguistics, >
 * <todo: consider, logical imperative of tackeling global warming/heating, stateing climate change global warming/heating facts, refuting with facts global warming/heating denial, how to use in a numerical prediction model use case, >
 * <todo: consider, logical imperative of world peace, resources freed to tackle global heating and global humger and global energy and global health and so on and so forth, >
-<todo: consider, ethics, impiricism, dictated by the logical imperative, reason based on objective evidence, enlightenment principles, >
+* <todo: consider, ethics, impiricism, dictated by the logical imperative, reason based on objective evidence, enlightenment principles, >
 
 DONE
 * <done: consider, intent to commit>

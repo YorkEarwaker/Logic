@@ -119,6 +119,7 @@ Primary sources
 * ...
 
 Global warming/heating
+* Heatwaves and Firewaves: The Drivers of Urban Wildfires in London in the Summer of 2022, [WS](https://link.springer.com/article/10.1007/s10694-025-01737-7), 21 May 2025 (published), Jamie John, Guillermo Rein, Fire Technology, Volume 61, pages 3451–3460 (2025), [doi](https://doi.org/10.1007/s10694-025-01737-7)
 * Fossil fuel emissions have rapidly worsened European heatwaves in just a few decades, [WS](https://www.worldweatherattribution.org/fossil-fuel-emissions-have-rapidly-worsened-european-heatwaves-in-just-a-few-decades/), 26 June 2026, World Weather Attribution, extreme weather attribution, 
 * Long-lasting UK marine heatwave likely to reach extreme levels next week, [WS](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/long-lasting-uk-marine-heatwave-likely-to-reach-extreme-levels-next-week), 3 July 2026, Met Office
 * State of the UK Climate in 2025, [WS](https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.70470), 14 July 2026 (published), Mike Kendon, Amy Doherty, Dan Hollis, Emily Carlisle, Stephen Packman, Nick Rayner, Ségolène Berthou, Lucy Barker, Steve Turner, Jamie Hannaford, Svetlana Jevrejeva, Andrew Matthews, Joanne Williams, Alex Marshall, Tim Sparks, International Journal of Climatology, [doi](https://doi.org/10.1002/joc.70470)

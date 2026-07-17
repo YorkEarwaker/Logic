@@ -109,6 +109,11 @@ Terms
 * Logic
 * Logical imperative, reason based on objective evidence, as opposed to moral imperative metaphysical self justification and individual or in group echo chamber confirmation bias feedback loops as action drivers 
 
+Global heating - firewave risk, wildfire risk, urban fire risk
+* Relative humidity
+* Vapor pressure deficits VPD
+* Daily temperature
+
 Primary sources
 * Beginning Logic, 1978, Edward John Lemon 
 * Tractatus Logica-Philosophicus, 1921, Ludwig Wittgenstein

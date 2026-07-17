@@ -116,7 +116,10 @@ Terms
 
 Global heating - firewave risk, wildfire risk, urban fire risk
 * Anticyclone, high pressure area, heat dome, 
-* Daily temperature
+* Temperature, daily 
+* Drought
+* Fire ecology
+* Heat stress
 * Relative humidity
 * Vapor pressure deficit VPD
 * ...

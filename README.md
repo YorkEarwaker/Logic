@@ -19,6 +19,8 @@ A tool of science and philosophy.
 * A mathematical tool.
 * A set theory tool.
 * An information systems tool.
+* A boolean network tool.
+* A rules based decision tool.
 * An epistemological tool.
 * ...
 

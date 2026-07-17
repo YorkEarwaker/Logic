@@ -46,7 +46,7 @@ TODO
 * <todo: consider, ethics, impiricism, dictated by the logical imperative, reason based on objective evidence, enlightenment principles, >
 * <todo: consider, some terms collated might be best transfferred to sub projects, with seperate specific focus on biology or global heating, break out when ns ecessary, >
 * <todo: consider, ethics top down, bottom up, middle out, best approach to stop malpractice, evidence based practice, chain of trust, all domains includig; medicine, global heating, public health, >
-* <todo: consider, the avoidance of anarchy, in all domains, freedom vs licence, liberty vs chaos, the tension between artistic freedom and demarcation problem in science, etc ... >
+* <todo: consider, the avoidance of anarchy, in all domains, freedom vs licence, liberty vs chaos, the tension between artistic freedom and the demarcation problem in science, etc ... >
 
 DONE
 * <done: consider, intent to commit>
@@ -116,20 +116,20 @@ Terms
 
 Global heating - firewave risk, wildfire risk, urban fire risk
 * Anticyclone, high pressure area, heat dome, 
-* Temperature, daily 
 * Drought
 * Fire ecology
 * Heat stress
 * Relative humidity
+* Temperature, daily 
 * Vapor pressure deficit VPD
 * ...
 
 Biology
 * Bimodal distribution, sex
 * Boolean network model, gentics, gonadal differentiation, 
-* Anisogamy, reproduction
-* Sex chromosomes, mioses, errors, autosomal anomalies, trisomy, monosomy, sex chromasome anomalies
-* Sex hormones, maxima, minima, purpose, embrionic pathways, brain organization, pubital surge, menopause, testosterone, anti Mullerian hormone, estrogen, progesterone, ...
+* Anisogamy, reproductive strategy, mammals, 
+* Sex chromosomes, mioses errors, autosomal anomalies, trisomy, monosomy, sex chromasome anomalies
+* Sex hormones, maxima, minima, intended purpose, embryonic pathways, brain organization, pubertal surge, menopause, testosterone, anti Mullerian hormone, estrogen, progesterone, ...
 * Developmental pathway, sex
 * ...
 

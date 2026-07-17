@@ -21,6 +21,7 @@ A tool of science and philosophy.
 * An information systems tool.
 * A boolean network tool.
 * A rules based decision tool.
+* A LLM parsing tool of NL 2 FOL
 * An epistemological tool.
 * ...
 

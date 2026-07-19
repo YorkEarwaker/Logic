@@ -126,12 +126,12 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * ...
 
 Biology
-* Bimodal distribution, sex
+* Bimodal distribution, sex binary
 * Boolean network model, gentics, gonadal differentiation, 
 * Anisogamy, reproductive strategy, mammals, 
 * Sex chromosomes, mioses errors, autosomal anomalies, trisomy, monosomy, sex chromasome anomalies
 * Sex hormones, maxima, minima, intended purpose, embryonic pathways, pubertal surge, menopause, testosterone, anti Mullerian hormone, estrogen, progesterone, ...
-* Developmental pathway, sex
+* Developmental pathway, sex binary
 * ...
 
 Primary sources

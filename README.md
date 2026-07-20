@@ -117,12 +117,13 @@ Terms
 
 Global heating - firewave risk, wildfire risk, urban fire risk
 * Anticyclone, high pressure area, heat dome, 
+* Dew point, [WP](https://en.wikipedia.org/wiki/Dew_point), 
 * Drought
 * Fire ecology
 * Heat stress
 * Relative humidity
 * Temperature, daily 
-* Vapor pressure deficit VPD, [WP](https://en.wikipedia.org/wiki/Vapour-pressure_deficit), see also; relative humidity, water vapor, evapotranspiration, vapor pressure, water vapor pressure, 
+* Vapor pressure deficit VPD, [WP](https://en.wikipedia.org/wiki/Vapour-pressure_deficit), see also; relative humidity, water vapor, evapotranspiration, vapor pressure, water vapor pressure, dew point, 
 * Wildfire suppression, 
 * ...
 

@@ -122,7 +122,8 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * Heat stress
 * Relative humidity
 * Temperature, daily 
-* Vapor pressure deficit VPD
+* Vapor pressure deficit VPD, [WP](https://en.wikipedia.org/wiki/Vapour-pressure_deficit), see also; relative humidity, water vapor, evapotranspiration, 
+* Wildfire suppression, 
 * ...
 
 Biology

@@ -120,9 +120,9 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * Dew point, [WP](https://en.wikipedia.org/wiki/Dew_point), 
 * Drought
 * Fire ecology
-* Firewaves
+* Firewave, factors including; heatwave + vpd + ...
 * Heat stress
-* Heatwaves
+* Heatwave, 
 * Relative humidity
 * Temperature, daily 
 * Vapor pressure deficit VPD, [WP](https://en.wikipedia.org/wiki/Vapour-pressure_deficit), see also; relative humidity, water vapor, evapotranspiration, vapor pressure, water vapor pressure, dew point, 

@@ -129,7 +129,7 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * ...
 
 Biology
-* Anisogamy, sex binary, reproductive strategy, mammals, 
+* Anisogamy, sex binary, evolutionary reproductive strategy, mammalian evolution, 
 * Bimodal distribution, sex binary, female, male
 * Boolean network model, sex binary, genetics, gonadal differentiation, 
 * Gametes, sex binary, female large non-motile ova, male small motile sperm

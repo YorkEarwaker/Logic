@@ -30,6 +30,7 @@ Objectives primary
 * Foundation for policy based on true statements of fact
 * Material reality debt reduction. 
 * Material reality debt management. 
+* Technical debt mitigation as a means of material reality debt reduction and management
 * How to best use for AGW project likely debunking climate denial? 
 
 Objectives secondary
@@ -114,6 +115,10 @@ TBD
 Terms
 * Logic
 * Logical imperative, reason based on objective evidence, as opposed to moral imperative metaphysical self justification and individual or in group echo chamber confirmation bias feedback loops as action drivers 
+
+Governance - future cost, opportunity cost, risk management
+* Material reality debt
+* Technical debt, [WP](https://en.wikipedia.org/wiki/Technical_debt), 
 
 Global heating - firewave risk, wildfire risk, urban fire risk
 * Anticyclone, high pressure area, heat dome, 

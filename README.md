@@ -120,6 +120,7 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * Dew point, [WP](https://en.wikipedia.org/wiki/Dew_point), 
 * Drought
 * Fire ecology
+* Firewaves
 * Heat stress
 * Heatwaves
 * Relative humidity

@@ -117,7 +117,7 @@ Terms
 * Logical imperative, reason based on objective evidence, as opposed to moral imperative metaphysical self justification and individual or in group echo chamber confirmation bias feedback loops as action drivers 
 
 Governance - future cost, opportunity cost, sunk cost, ..., risk management
-* Escalation of commitment, [Wp](https://en.wikipedia.org/wiki/Escalation_of_commitment)
+* Escalation of commitment, [Wp](https://en.wikipedia.org/wiki/Escalation_of_commitment), irrational escalation of commitment, commitment bias, see also confirmation bias
 * Material reality debt, an inability to function well or at all, error and operational and systemic failure
 * Sunk cost fallacy, 
 * Technical debt, [WP](https://en.wikipedia.org/wiki/Technical_debt), 

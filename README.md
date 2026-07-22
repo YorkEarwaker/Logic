@@ -116,7 +116,7 @@ Terms
 * Logic
 * Logical imperative, reason based on objective evidence, as opposed to moral imperative metaphysical self justification and individual or in group echo chamber confirmation bias feedback loops as action drivers 
 
-Governance - future cost, opportunity cost, risk management
+Governance - future cost, opportunity cost, sunk cost, ..., risk management
 * Material reality debt
 * Technical debt, [WP](https://en.wikipedia.org/wiki/Technical_debt), 
 

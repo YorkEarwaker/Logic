@@ -118,6 +118,7 @@ Terms
 
 Governance - future cost, opportunity cost, sunk cost, ..., risk management
 * Material reality debt
+* Sunk cost fallacy, 
 * Technical debt, [WP](https://en.wikipedia.org/wiki/Technical_debt), 
 
 Global heating - firewave risk, wildfire risk, urban fire risk

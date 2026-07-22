@@ -30,7 +30,7 @@ Objectives primary
 * Foundation for policy based on true statements of fact
 * Material reality debt reduction. 
 * Material reality debt management. 
-* How to best use for AGW project? 
+* How to best use for AGW project likely debunking climate denial? 
 
 Objectives secondary
 * Debunk disinformation - ineptitude
@@ -121,6 +121,7 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * Drought
 * Fire ecology
 * Heat stress
+* Heatwaves
 * Relative humidity
 * Temperature, daily 
 * Vapor pressure deficit VPD, [WP](https://en.wikipedia.org/wiki/Vapour-pressure_deficit), see also; relative humidity, water vapor, evapotranspiration, vapor pressure, water vapor pressure, dew point, 
@@ -129,12 +130,12 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 
 Biology
 * Anisogamy, sex binary, reproductive strategy, mammals, 
-* Bimodal distribution, sex binary
+* Bimodal distribution, sex binary, female, male
 * Boolean network model, sex binary, genetics, gonadal differentiation, 
 * Gametes, sex binary, female large non-motile ova, male small motile sperm
 * Sex chromosomes, sex binary, mioses errors, autosomal anomalies, trisomy, monosomy, sex chromasome anomalies
 * Sex hormones, sex binary, maxima, minima, intended purpose, embryonic pathways, pubertal surge, menopause, testosterone, anti Mullerian hormone, estrogen, progesterone, ...
-* Developmental pathway, sex binary
+* Developmental pathway, sex binary, female, male, entire life cycle, health, disease, conception to death
 * ...
 
 Primary sources

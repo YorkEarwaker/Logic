@@ -117,9 +117,9 @@ Terms
 * Logical imperative, reason based on objective evidence, as opposed to moral imperative metaphysical self justification and individual or in group echo chamber confirmation bias feedback loops as action drivers 
 
 Governance - future cost, opportunity cost, sunk cost, ..., risk management
-* Escalation of commitment, [Wp](https://en.wikipedia.org/wiki/Escalation_of_commitment), irrational escalation of commitment, commitment bias, see also confirmation bias
-* Material reality debt, an inability to function well or at all, error and operational and systemic failure
-* Sunk cost fallacy, 
+* Escalation of commitment, [WP](https://en.wikipedia.org/wiki/Escalation_of_commitment), irrational escalation of commitment, commitment bias, see also confirmation bias
+* Material reality debt, an inability to function well or at all, fallacy and error leading to operational and systemic failure
+* Sunk cost fallacy, [WP](https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect)
 * Technical debt, [WP](https://en.wikipedia.org/wiki/Technical_debt), 
 
 Global heating - firewave risk, wildfire risk, urban fire risk
@@ -127,7 +127,7 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * Dew point, [WP](https://en.wikipedia.org/wiki/Dew_point), 
 * Drought
 * Fire ecology
-* Firewave, factors including; heatwave + vpd + ...
+* Firewave, factors including; heatwave + vpd + ? + ...
 * Heat stress
 * Heatwave, 
 * Relative humidity
@@ -138,7 +138,7 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 
 Biology
 * Anisogamy, sex binary, evolutionary reproductive strategy, mammalian evolution, 
-* Bimodal distribution, sex binary, female, male
+* Bimodal distribution, sex binary, female, male, x axis
 * Boolean network model, sex binary, genetics, gonadal differentiation, female ovaries, male testies 
 * Gametes, sex binary, female large non-motile ova, male small motile sperm
 * Sex chromosomes, sex binary, mioses errors, autosomal anomalies, trisomy, monosomy, sex chromasome anomalies

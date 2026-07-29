@@ -129,7 +129,7 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * Drought, flash drought, 
 * Fire ecology
 * Firewave, factors including; heatwave + vpd + ? + ...
-* Fire triangle, [WP](https://en.wikipedia.org/wiki/Fire_triangle), oxygen, heat, fuel, 
+* Fire triangle (tetrahedron), [WP](https://en.wikipedia.org/wiki/Fire_triangle), fire (second/m^2); fuel, oxygen, heat . wildfire (days/km^2); fuel, weather, topography. fire regime (decades/100km^2); vegetation, climate, ignitions .
 * Triangle of thirty, 30°c 30rh 30km/h heuristic, temp 30 degree centegrade or more, wind speed 30 km per hour, 30 retaliative humidify or lower, 
 * Pyro-cumulonimbus, fire cloud, collapse causes erratic down drafts, creation strips all moisture from ground level, lightning strikes, ...
 * Heat stress, 
@@ -140,7 +140,7 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * Temperature, daily 
 * Vapor pressure deficit VPD, [WP](https://en.wikipedia.org/wiki/Vapour-pressure_deficit), see also; relative humidity, water vapor, evapotranspiration, vapor pressure, water vapor pressure, dew point, 
 * Wildfire suppression, 
-* Vegitation management, wildland, managed forests, urban parks and green spaces, ...
+* Vegetation management, wildland, managed forests, urban parks and green spaces, ...
 * WUI, wild urban interface, farming urban interface, city heat island effects, 
 * ...
 

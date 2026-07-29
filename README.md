@@ -139,7 +139,7 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * Relative humidity
 * Temperature, daily 
 * Vapor pressure deficit VPD, [WP](https://en.wikipedia.org/wiki/Vapour-pressure_deficit), see also; relative humidity, water vapor, evapotranspiration, vapor pressure, water vapor pressure, dew point, 
-* Water resource management, build more resevoirs, build more artificial lakes, capture precipitation water in winter for use in drier spring summer autumn, 
+* Water resource management, build more resevoirs, build more artificial lakes, capture precipitation water in winter for use in drier spring summer autumn, national water transport network from surplus locales to scarcity/deficit locales, use canal systems to transport water across country, consider fresh water pipelines along existing rail routes and canal routes to transport water, under electrical pylon routs cross country where feasable, national water storage and use strategy, 
 * Wildfire suppression, 
 * Vegetation management, wildland, managed forests, urban parks and green spaces, ...
 * WUI, wild urban interface, farming urban interface, city heat island effects, 

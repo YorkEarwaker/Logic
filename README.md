@@ -126,14 +126,22 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * Anticyclone, high pressure area, heat dome, 
 * Dew point, [WP](https://en.wikipedia.org/wiki/Dew_point), 
 * Drought
+* Drought, flash drought, 
 * Fire ecology
 * Firewave, factors including; heatwave + vpd + ? + ...
-* Heat stress
+* Fire triangle, [WP](https://en.wikipedia.org/wiki/Fire_triangle), oxygen, heat, fuel, 
+* Triangle of thirty, 30°c 30rh 30km/h heuristic, temp 30 degree centegrade or more, wind speed 30 km per hour, 30 retaliative humidify or lower, 
+* Pyro-cumulonimbus, fire cloud, collapse causes erratic down drafts, creation strips all moisture from ground level, lightning strikes, ...
+* Heat stress, 
+* Heat dome, slow moving or blocked high pressure system
+* Jet Stream, Omega loop, 
 * Heatwave, 
 * Relative humidity
 * Temperature, daily 
 * Vapor pressure deficit VPD, [WP](https://en.wikipedia.org/wiki/Vapour-pressure_deficit), see also; relative humidity, water vapor, evapotranspiration, vapor pressure, water vapor pressure, dew point, 
 * Wildfire suppression, 
+* Vegitation management, wildland, managed forests, urban parks and green spaces, ...
+* WUI, wild urban interface, farming urban interface, city heat island effects, 
 * ...
 
 Biology

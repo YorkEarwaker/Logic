@@ -126,23 +126,23 @@ Global heating - firewave risk, wildfire risk, urban fire risk
 * Anticyclone, high pressure area, heat dome, 
 * Dew point, [WP](https://en.wikipedia.org/wiki/Dew_point), 
 * Drought
-* Drought, flash drought, 
+* Drought, flash drought, high temperature soil evaporation and vegetation evapo-transpiration + low precipitation, 
 * Fire ecology
 * Firewave, factors including; heatwave + vpd + ? + ...
 * Fire triangle (tetrahedron), [WP](https://en.wikipedia.org/wiki/Fire_triangle), fire (second/m^2); fuel, oxygen, heat . wildfire (days/km^2); fuel, weather, topography. fire regime (decades/100km^2); vegetation, climate, ignitions .
-* Triangle of thirty, 30°c 30rh 30km/h heuristic, temp 30 degree centegrade or more, wind speed 30 km per hour, 30 retaliative humidify or lower, 
+* Triangle of thirty, 30°c & 30rh & 30km/h heuristic, temp 30 degree centigrade or more, wind speed 30 km per hour or more, 30 retaliative humidify or lower, 
 * Pyro-cumulonimbus, fire cloud, collapse causes erratic down drafts, creation strips all moisture from ground level, lightning strikes, ...
 * Heat stress, 
 * Heat dome, slow moving or blocked high pressure system
 * Jet Stream, Omega loop, 
-* Heatwave, 
+* Heatwave, UK three (3) consecutive days above 30°c , Met Office UK, 
 * Relative humidity
 * Temperature, daily 
-* Vapor pressure deficit VPD, [WP](https://en.wikipedia.org/wiki/Vapour-pressure_deficit), see also; relative humidity, water vapor, evapotranspiration, vapor pressure, water vapor pressure, dew point, 
-* Water resource management, build more resevoirs, build more artificial lakes, capture precipitation water in winter for use in drier spring summer autumn, national water transport network from surplus locales to scarcity/deficit locales, use canal systems to transport water across country, consider fresh water pipelines along existing rail routes and canal routes to transport water, under electrical pylon routs cross country where feasable, national water storage and use strategy, 
+* Vapor pressure deficit VPD, [WP](https://en.wikipedia.org/wiki/Vapour-pressure_deficit), see also; relative humidity, water vapor, soil evaporation and vegetation evapo-transpiration, vapor pressure, water vapor pressure, dew point, 
+* Water resource management, hydrology, build more resevoirs, build more artificial lakes, capture precipitation water in winter for use in drier spring summer autumn, national water transport network from surplus locales to scarcity/deficit locales, use canal systems to transport water across country, consider fresh water pipelines along existing rail routes and canal routes to transport water, under electrical pylon routes cross country where feasable, national water storage and use strategy, 
 * Wildfire suppression, 
 * Vegetation management, wildland, managed forests, urban parks and green spaces, ...
-* WUI, wild urban interface, farming urban interface, city heat island effects, 
+* WUI, wild urban interface, farming agriculture urban interface, urban heat island effects, urban wild parks woods rail corridors wateland, 
 * ...
 
 Biology

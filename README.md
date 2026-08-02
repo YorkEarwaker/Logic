@@ -151,7 +151,8 @@ Biology
 * Boolean network model, sex binary, genetics, gonadal differentiation, female ovaries, male testies 
 * Gametes, sex binary, female large non-motile ova, male small motile sperm
 * Sex chromosomes, sex binary, mioses errors, autosomal anomalies, trisomy, monosomy, sex chromasome anomalies
-* Sex hormones, sex binary, maxima, minima, intended purpose, evolved function, embryonic pathways, pubertal surge, pregnancy and child birth, menopause, testosterone, anti Mullerian hormone, estrogen, progesterone, ...
+* Sex hormones, sex binary, maxima, minima, intended purpose, evolved function, testosterone, anti Mullerian hormone, oestrogen, progesterone, female male delta; embryonic pathways, pubertal surge, female; oestrous cycle, pregnancy and child birth, menopause, ... male; <tod: male specific developmental sex hormone physiological difference, >
+* Illness, disease, sex binary, female; polycystic ovary syndrome (PCOS), ..., male; prostate cancer, ...
 * Developmental pathway, sex binary, female, male, entire end to end life cycle, health, disease, conception to death
 * ...
 

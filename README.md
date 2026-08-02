@@ -53,6 +53,12 @@ TODO
 DONE
 * <done: consider, intent to commit>
 
+## Libs
+
+Python
+* Z3 Theorem Prover, [WS](https://ericpony.github.io/z3py-tutorial/guide-examples.htm), Microsft
+* others tbd ...
+
 ## Output
 
 ### Natural language to first order logic to code
@@ -82,14 +88,22 @@ All humans are mortal
 ```
 
 #### First order logic
+* <todo: consider, both logical implication and material implication, explore differences>
+* <todo: consider, logical implication, logical structure and necessity, false when conclusion does not follow from premises, >
+* <todo: consider, material implication, truth values only, fase when antecedent is true consequcnet is false >
+* <todo: consider, logical equirvalent, ∼ A v B >
+* <todo: consider, set theoretic equivalent, A ⊃ B >
 
 ```
 forall x if (P(x) then Q(x))
-forall x if (Human(x) -> Mortal(x))
+forall x if (Human(x) then  Mortal(x))
+forall x Human x implies  Mortal x
 ```
 
 ```
-
+∀ x (Human x → Mortal x)
+Human Socraties
+Mortal Socraties
 ```
 
 #### code
@@ -181,3 +195,6 @@ Public Health
 * The New Medical-Industrial Complex, [WS](https://www.nejm.org/doi/full/10.1056/NEJM198010233031703), 23 October 1980, Arnold S. Relman, M.D., N Engl J Med 1980;303:963-970, VOL. 303 NO. 17, [doi](https://doi.org/10.1056/NEJM198010233031703)
 * Medical Industrial Complex, [WS](https://www.ebsco.com/research-starters/consumer-health/medical-industrial-complex), 2019, , EBSCO
 * Medical-Industrial Complex, [WS](https://lifestyle.sustainability-directory.com/term/medical-industrial-complex/), 21 August 2025, Sustainability Directory, 
+
+Logic
+* Logical implication, [WP](https://en.wikiversity.org/wiki/Logical_implication), wikiversity

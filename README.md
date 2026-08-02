@@ -49,6 +49,7 @@ TODO
 * <todo: consider, some terms collated might be best transfferred to sub projects, with seperate specific focus on biology or global heating, break out when ns ecessary, >
 * <todo: consider, ethics top down, bottom up, middle out, best approach to stop malpractice, evidence based practice, chain of trust, all domains includig; medicine, global heating, public health, >
 * <todo: consider, the avoidance of anarchy, in all domains, freedom vs licence, liberty vs chaos, the tension between artistic freedom and the demarcation problem in science, etc ... >
+* <todo: consider, semantic web stack, nl to fol to xml, rdf, owl, ... >
 
 DONE
 * <done: consider, intent to commit>

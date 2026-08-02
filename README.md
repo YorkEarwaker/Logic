@@ -93,6 +93,7 @@ All humans are mortal
 * <todo: consider, material implication, truth values only, fase when antecedent is true consequcnet is false >
 * <todo: consider, logical equirvalent, ∼ A v B >
 * <todo: consider, set theoretic equivalent, A ⊃ B >
+* <todo: consider, turth tables, ven diagrams, Euler diagrams, >
 
 ```
 forall x if (P(x) then Q(x))

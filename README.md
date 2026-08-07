@@ -57,7 +57,7 @@ DONE
 ## Libs
 
 Python
-* Z3 Theorem Prover, [WS](https://ericpony.github.io/z3py-tutorial/guide-examples.htm), Microsft
+* Z3 Theorem Prover, [WS](https://ericpony.github.io/z3py-tutorial/guide-examples.htm), Microsoft
 * others tbd ...
 
 ## Output
